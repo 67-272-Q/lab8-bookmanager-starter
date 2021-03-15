@@ -1,4 +1,4 @@
-#Objectives
+# Objectives
 
 - help students understand how controllers work
 - help students learn to work with views
